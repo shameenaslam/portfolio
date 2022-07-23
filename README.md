@@ -9,6 +9,8 @@ The final Task of this programme was to solve four business problem using data. 
 
 For visualizations [Employees- Dashboard](https://public.tableau.com/views/project_employees_dataset/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link)
 
+Course completion certificate ![image]()
+
 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
