@@ -1,9 +1,9 @@
 ## Welcome to Shameen's Portfolio Website
-PROJECT 1 
+###PROJECT 1 
 Name : Provide HR insights to a reputed comany with more than 30K employees. This projectwas done as a part of Udemy Course on MySql for Business analytics.
 Data exploration and cleaning was done on MySql Workbench. 
 The final Taskthis programme was to solve four business problem using data. Also share results in the form of a dashboard on tableau public.
-For visualizations [Employyes Data](https://public.tableau.com/views/project_employees_dataset/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link))
+For visualizations [Employyes Data](https://public.tableau.com/views/project_employees_dataset/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link)
 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -13,7 +13,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+Syntax highlighted code blockCancel changes
 
 # Header 1
 ## Header 2
