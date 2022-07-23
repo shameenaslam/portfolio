@@ -7,8 +7,7 @@ Data exploration and cleaning was done on MySql Workbench.
 The final Task of this programme was to solve four business problem using data. Also share results in the form of a dashboard on tableau public.
 
 
-For visualizations [Employyes Data](https://public.tableau.com/views/project_employees_dataset/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link)
-
+For visualizations [Employees- Dashboard](https://public.tableau.com/views/project_employees_dataset/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link)
 
 
 
