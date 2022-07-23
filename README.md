@@ -26,7 +26,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+For visualizations [Sales Data - Tableau]](https://public.tableau.com/app/profile/shameen.aslam/viz/portfolio_project-sales/Dashboard1)
 
 
 ### Contact info : shameenaslam@outlook.com
