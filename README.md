@@ -2,7 +2,7 @@
 ### PROJECTS
 
 
-Name : Provide HR insights to a reputed comany with more than 30K employees. This projectwas done as a part of Udemy Course on MySql for Business analytics.
+Name : Provide HR insights to a reputed company with more than 30K employees. This project was done as a part of Udemy Course on MySql for Business analytics.
 Data exploration and cleaning was done on MySql Workbench. 
 The final Task of this programme was to solve four business problem using data. Also share results in the form of a dashboard on tableau public.
 
